@@ -13,7 +13,7 @@ THIS IS A GREAT PROGRAM FOR ONE WHO WANTS TO LEARN MAINFRAME , MAINFRAME THECHNO
 
 
 
-## MY MAINFRAME MTM-2020BADGES
+## MY MAINFRAME MTM-2020 BADGES
 
 
 <div align="left"><img src="/cobol-programming-with-vscode.png" alt="cobol-programming-with-vscode.png" width="20%;"  div align="centre" </p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/master-the-mainframe-2020-level-2.png" alt="master-the-mainframe-2020-level-2.png" width="20%;"  div align="centre"  </p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/master-the-mainframe-2020-level-3.png" alt="master-the-mainframe-2020-level-3" width="20%;"  div align="centre" </p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/master-the-mainframe-2020-facilitator.png" alt="master-the-mainframe-2020-facilitator.png" width="20%;" />
