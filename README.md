@@ -16,9 +16,8 @@ THIS IS A GREAT PROGRAM FOR ONE WHO WANTS TO LEARN MAINFRAME , MAINFRAME THECHNO
 ## MY MAINFRAME MTM-2020BADGES
 
 
-<div align="center"><img src="README.assets/master-the-mainframe-2020-level-3.png" alt="master-the-mainframe-2020-level-3" width="75%;" /></div>
+<div align="center"><img src="/master-the-mainframe-2020-level-3.png" alt="master-the-mainframe-2020-level-3" width="75%;" /></div>
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-https://github.com/sanketnawale/MY-Z-XPLORATION/blob/28b3344a43730eb9186f0795b3289e46b27be117/master-the-mainframe-2020-level-3.png
