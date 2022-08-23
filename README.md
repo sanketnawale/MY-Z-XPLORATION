@@ -23,8 +23,8 @@ THIS IS A GREAT PROGRAM FOR ONE WHO WANTS TO LEARN MAINFRAME , MAINFRAME THECHNO
 
 # BADGE WISE DESCRIPTION
 ## COBOL Programming with VSCode &nbsp;[![LEVEL-1](https://img.shields.io/badge/BADGE-LEVEL1-brightgreen)]
-<li>Summarize the key features of COBOL programs<li>
-<li>Recognize the hardware (IBM Z) and software (z/OS) layers that go hand in hand with Enterprise COBOL <li>
+<li>Summarize the key features of COBOL programs
+<li>Recognize the hardware (IBM Z) and software (z/OS) layers that go hand in hand with Enterprise COBOL
 <li>Demonstrate an understanding of basic programming fundamentals <li>
 <li>Demonstrate an understanding of the modern tooling interface (VSCode w/ ZOWE & Z Open Editor)<li>
 <li>Demonstrate an ability to write COBOL programs<li>
