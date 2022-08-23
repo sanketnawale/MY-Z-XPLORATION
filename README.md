@@ -25,6 +25,7 @@ I HAVE SUCCESFULLY COMPLETED @IBM Z XPLORE 2021 THIS YEAR WITH ALL LEVEL AND I G
 <li>I was aslo able to perform everyday tasks in an IBM Z mainframe environment, including administering data sets, formulating commands, managing JCL, scripting actions in USS (Unix System Services), writing and debugging Python 🐍, and orchestrating actions through IBM Z Open Automation Utilities.
 
  ##Skills
+  
  &nbsp; [![LEVEL-1](https://img.shields.io/badge/-BASH-blue)]() &nbsp; [![LEVEL-1](https://img.shields.io/badge/-MVS%20COMMANDS-brightgreen)]()&nbsp; [![LEVEL-1](https://img.shields.io/badge/-JCL-red)]()&nbsp; [![LEVEL-1](https://img.shields.io/badge/-PYTHON-green)]()&nbsp; [![LEVEL-1](https://img.shields.io/badge/-Z%2FOS-blue)]()&nbsp; [![LEVEL-1](https://img.shields.io/badge/-ZOWE-yellowgreene)]()&nbsp; [![LEVEL-1](https://img.shields.io/badge/-z%2FOS%20LINUX-blue)]()
   
   
