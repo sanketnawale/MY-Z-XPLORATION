@@ -29,3 +29,5 @@ THIS IS A GREAT PROGRAM FOR ONE WHO WANTS TO LEARN MAINFRAME , MAINFRAME THECHNO
 <li>Demonstrate an understanding of the modern tooling interface (VSCode w/ ZOWE & Z Open Editor)
 <li>Demonstrate an ability to write COBOL programs
 <li>Perform test and debug of COBOL programs
+  
+  <a href="/about/about_team.htm" style="color: red">
