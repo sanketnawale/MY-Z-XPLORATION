@@ -30,7 +30,4 @@ THIS IS A GREAT PROGRAM FOR ONE WHO WANTS TO LEARN MAINFRAME , MAINFRAME THECHNO
 <li>Demonstrate an ability to write COBOL programs
 <li>Perform test and debug of COBOL programs
   
-<p>
-         Our <a href="/about/about_team.htm" style="color: red">Team</a>
-            comprises of programmers, writers, and analysts.
-      </p>
+<a href="/about/about_team.htm](https://www.ibm.com/docs/en/i/7.2?topic=languages-cobol)" style="color: red">COBOL</a>
