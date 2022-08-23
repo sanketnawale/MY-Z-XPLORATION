@@ -18,8 +18,16 @@ I HAVE SUCCESFULLY COMPLETED @IBM Z XPLORE 2021 THIS YEAR WITH ALL LEVEL AND I G
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LEVEL-1](https://img.shields.io/badge/BADGE-CONCEPT-red)](https://www.credly.com/badges/8f071a17-fc6f-47dd-ae5d-3da837706047/public_url)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LEVEL-3](https://img.shields.io/badge/BADGE-ADVANCED-blue)](https://www.credly.com/badges/1fb17b68-112c-4130-93cd-993c5602b3ca/public_url)
 
+# BADGE WISE DESCRIPTION 2021
+  
+## IBM Z XPLORE 2021 - CONCEPTS &nbsp; ![LEVEL-1](https://img.shields.io/badge/BADGE-CONCEPT-red)
+<li>I was able to learn fundamental mainframe skills and understands IBM Z concepts.
+<li>I was aslo able to perform everyday tasks in an IBM Z mainframe environment, including administering data sets, formulating commands, managing JCL, scripting actions in USS (Unix System Services), writing and debugging Python 🐍, and orchestrating actions through IBM Z Open Automation Utilities.
 
-
+###Skills
+ &nbsp; [![LEVEL-1](https://img.shields.io/badge/-BASH-blue)] &nbsp; [![LEVEL-1](https://img.shields.io/badge/-MVS%20COMMANDS-brightgreen)]&nbsp; [![LEVEL-1](https://img.shields.io/badge/-JCL-red)]&nbsp; [![LEVEL-1](https://img.shields.io/badge/-PYTHON-green)]&nbsp; [![LEVEL-1](https://img.shields.io/badge/-Z%2FOS-blue)]&nbsp; [![LEVEL-1](https://img.shields.io/badge/-ZOWE-yellowgreene)]&nbsp; [![LEVEL-1](https://img.shields.io/badge/-z%2FOS%20LINUX-blue)]
+  
+  
 ## MY MAINFRAME MTM-2020 BADGES
 
 
