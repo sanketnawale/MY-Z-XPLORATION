@@ -31,8 +31,10 @@ THIS IS A GREAT PROGRAM FOR ONE WHO WANTS TO LEARN MAINFRAME , MAINFRAME THECHNO
 <li>Perform test and debug of <a href="https://www.ibm.com/docs/en/i/7.2?topic=languages-cobol" style="color🥬">COBOL</a> programs
   
 ## Master the Mainframe 2020 - Level 2 &nbsp; ![LEVEL-3](https://img.shields.io/badge/BADGE-LEVEL%202-red)
-  
-I was able to learn fundamental mainframe skills. I was aslo able to perform everyday tasks in an IBM Z mainframe environment, including administering data sets, formulating commands, managing JCL, scripting actions in USS (Unix System Services), writing and debugging Python 🐍, and orchestrating actions through IBM Z Open Automation Utilities.
+<li>I was able to learn fundamental mainframe skills. 
+<li>I was aslo able to perform everyday tasks in an IBM Z mainframe environment, including administering data sets, formulating commands, managing JCL, scripting actions in USS (Unix System Services), writing and debugging Python 🐍, and orchestrating actions through IBM Z Open Automation Utilities.
 
 ## Master the Mainframe 2020 - Level 3 &nbsp; ![LEVEL-3](https://img.shields.io/badge/BADGE-LEVEL%203-blue)  
-In this Level I was able to solve advanced mainframe problems applying information from a wide variety of sources. I tried to arrange system activities using Ansible and Zowe, while working in Docker 🐳 containerized environments. The earner has also demonstrated key mainframe skills, including REXX , COBOL, VSAM, TSO, and DFSMS commands.
+<li>In this Level I was able to solve advanced mainframe problems applying information from a wide variety of sources. 
+<li>I tried to arrange system activities using Ansible and Zowe, while working in Docker 🐳 containerized environments. 
+<li>I have also used key mainframe skills, including REXX , COBOL, VSAM, TSO, and DFSMS commands.
